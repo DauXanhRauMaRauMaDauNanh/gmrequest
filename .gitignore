@@ -1,0 +1,20 @@
+# Reference folders provided locally
+cloakbrowser/
+rayobrowse/
+cloudscraper_go/
+
+# Binaries & build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
